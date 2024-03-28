@@ -3,7 +3,7 @@ import * as fs from 'fs';
 import bs58 from 'bs58';
 
 //STEP 1 - Connect to Solana Network
-const endpoint = 'https://solana-mainnet.g.alchemy.com/v2/p-QJVY0OsNNtm3I_dhpZEnnneQC7KL1U'; //Replace with your QuickNode RPC Endpoint
+const endpoint = 'https://solana-mainnet.g.alchemy.com/v2/*******************'; //Replace with your QuickNode RPC Endpoint
 const solanaConnection = new Connection(endpoint);
 
 //STEP 2 - Generate a New Solana Wallet
