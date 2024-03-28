@@ -13,7 +13,7 @@ const userWalletSigner = createSignerFromKeypair(umi, userWallet);
 const metadata = {
     name: "Solano",
     symbol: "SOLA",
-    uri: "https://storage.googleapis.com/jovial-duality-156411.appspot.com/token.json"
+    uri: "https://storage.googleapis.com/***.appspot.com/token.json"
 }
 
 const mint = generateSigner(umi);
